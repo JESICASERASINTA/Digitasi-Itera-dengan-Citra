@@ -1,2 +1,3 @@
 # Digitasi-Itera-dengan-Citra
-Web
+  INSTITUT TEKNOLOGI SUMATERA
+  
